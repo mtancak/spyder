@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2023-10-20 18:41-0500\n"
-"PO-Revision-Date: 2024-05-27 16:27\n"
+"PO-Revision-Date: 2024-05-27 17:32\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
@@ -1634,7 +1634,7 @@ msgstr "Completado, análisis de código, \n"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/status.py:76
 msgid "Restart {} Language Server"
-msgstr "Reiniciar el Servidor de lenguaje de {}"
+msgstr "Reiniciar el servidor de lenguaje de {}"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:33
 msgid "Snippets"
@@ -5048,7 +5048,7 @@ msgstr "Spyder se reiniciará y volverá a su configuración por defecto: <br><b
 
 #: spyder/plugins/preferences/widgets/container.py:115
 msgid "Reset Spyder to factory defaults"
-msgstr "Restaurar Spyder a su  configuración por defecto"
+msgstr "Restaurar Spyder a su configuración por defecto"
 
 #: spyder/plugins/profiler/confpage.py:19 spyder/plugins/pylint/confpage.py:42
 msgid "Results"
