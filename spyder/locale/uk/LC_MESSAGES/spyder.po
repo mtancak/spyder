@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2023-10-20 18:41-0500\n"
-"PO-Revision-Date: 2024-02-18 18:22\n"
+"PO-Revision-Date: 2024-07-22 12:22\n"
 "Last-Translator: \n"
 "Language-Team: Ukrainian\n"
 "MIME-Version: 1.0\n"
@@ -491,35 +491,35 @@ msgstr "Обчислення відстані між рядками"
 
 #: spyder/dependencies.py:256
 msgid "3-way merge algorithm to merge document changes"
-msgstr ""
+msgstr "Алгоритм 3-стороннього злиття для об'єднання змін у документах"
 
 #: spyder/dependencies.py:260
 msgid "Watch file changes on project directories"
-msgstr ""
+msgstr "Спостерігайте за змінами файлів у каталогах проєкту"
 
 #: spyder/dependencies.py:269
 msgid "Run Cython files in the IPython Console"
-msgstr ""
+msgstr "Запуск файлів Cython у консолі IPython"
 
 #: spyder/dependencies.py:274
 msgid "2D/3D plotting in the IPython console"
-msgstr ""
+msgstr "2D/3D графіка в консолі IPython"
 
 #: spyder/dependencies.py:279
 msgid "View and edit two and three dimensional arrays in the Variable Explorer"
-msgstr ""
+msgstr "Перегляд і редагування двовимірних і тривимірних масивів у Провіднику змінних"
 
 #: spyder/dependencies.py:284
 msgid "View and edit DataFrames and Series in the Variable Explorer"
-msgstr ""
+msgstr "Перегляд і редагування фреймів даних і серій у Провіднику змінних"
 
 #: spyder/dependencies.py:289
 msgid "Import Matlab workspace files in the Variable Explorer"
-msgstr ""
+msgstr "Імпорт файлів робочого простору Matlab у Провіднику змінних"
 
 #: spyder/dependencies.py:294
 msgid "Symbolic mathematics in the IPython Console"
-msgstr ""
+msgstr "Символічна математика в консолі IPython"
 
 #: spyder/plugins/appearance/confpage.py:43
 msgid "Main interface"
@@ -531,11 +531,11 @@ msgstr "Автоматично"
 
 #: spyder/plugins/appearance/confpage.py:48
 msgid "Light"
-msgstr ""
+msgstr "Світла"
 
 #: spyder/plugins/appearance/confpage.py:49
 msgid "Dark"
-msgstr ""
+msgstr "Темна"
 
 #: spyder/plugins/appearance/confpage.py:52
 msgid "Interface theme"
@@ -631,7 +631,7 @@ msgstr "Використовувати один екземпляр"
 
 #: spyder/plugins/application/confpage.py:61
 msgid "Set this to open external<br> Python files in an already running instance (Requires a restart)"
-msgstr ""
+msgstr "Встановіть цей параметр для відкриття зовнішніх<br> Python файлів у вже запущеному екземплярі (потребує перезапуску)"
 
 #: spyder/plugins/application/confpage.py:65
 msgid "Prompt when exiting"
@@ -639,7 +639,7 @@ msgstr "Запитувати при виході"
 
 #: spyder/plugins/application/confpage.py:66
 msgid "Show internal Spyder errors to report them to Github"
-msgstr ""
+msgstr "Показати внутрішні помилки Spyder, щоб повідомити про них на Github"
 
 #: spyder/plugins/application/confpage.py:68
 msgid "Check for updates on startup"
